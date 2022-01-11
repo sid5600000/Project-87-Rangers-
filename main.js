@@ -33,6 +33,7 @@ console.log(keyPressed);
 
 	if(keyPressed == '82') 
 	{
+		block_x = 1; 
 		new_image("rr.jpg");
 		console.log("R")
 	}
